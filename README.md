@@ -20,6 +20,7 @@ Here's my PCB! It was made in KiCad.
 It has 2 separate printed pieces. The top cover has big hole so you can see the electronics (not the best decision, I know).
 
 <img src=assets/CAD.png alt="CAD"/>
+<img src=assets/CAD2.png alt="CAD2"/>
 
 Made in Fusion360.
 
